@@ -18,13 +18,13 @@ sidebar:
   # timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://www.joseraw.profesional.bo/ # Include the full website URL, including "http://" or "https://".
-  linkedin: # alandoe
-  xing: # alandoe
-  github: # jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: # '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+ # linkedin: # alandoe
+ # xing: # alandoe
+ # github: # jekyll
+ # telegram: # add your nickname without '@' sign
+ # gitlab:
+ # bitbucket:
+ # bluesky: # '@jekyllrb.bsky.social' # Specify your full Bluesky handle
   instagram: lentemorado_sc
   vero: @joseraw
   blogspot: jlguti.blogspot.com
