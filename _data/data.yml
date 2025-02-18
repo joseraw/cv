@@ -74,7 +74,7 @@ education:
   title: Educación
   info:
   - degree: Pregrado en Derecho
-    university: Universidad de Aquino bolivia
+    university: Universidad de Aquino Bolivia
     time: 2023 - Actualidad
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -84,7 +84,7 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: Licenciatura en Ciancia Política y Políticas Públicas
+  - degree: Licenciatura en Ciencia Política y Políticas Públicas
     university: Universidad Autónoma Gabriel René Moreno
     time: 2003 - 2008
     details: |
@@ -95,7 +95,7 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-   - degree: Técnico medio en electrónica digital y Reparación de computadoras
+  - degree: Técnico medio en electrónica digital y Reparación de computadoras
     university: Instituto Técnico Profesional - Edison
     time: 2000 - 2002
     details: |
