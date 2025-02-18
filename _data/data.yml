@@ -25,9 +25,9 @@ sidebar:
  # gitlab:
  # bitbucket:
  # bluesky: # '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  instagram: lentemorado_sc
-  vero: @joseraw
-  blogspot: jlguti.blogspot.com
+  instagram: 'lentemorado_sc'
+  vero: '@joseraw'
+  blogspot: 'jlguti.blogspot.com'
   twitter: '@joseluisiulesoj'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
