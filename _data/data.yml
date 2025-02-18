@@ -25,10 +25,10 @@ sidebar:
   gitlab:
   bitbucket:
   bluesky: # '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@joseluisiulesoj'
   instagram: '@lentemorado_sc'
   vero: '@joseraw'
-  blogspot: jlguti.blogspot.com
+  blogspot: 'jlguti.blogspot.com'
+  twitter: '@joseluisiulesoj'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
