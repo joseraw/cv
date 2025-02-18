@@ -4,7 +4,7 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
- # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -18,14 +18,14 @@ sidebar:
   # timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://www.joseraw.profesional.bo/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  linkedin: # alandoe
+  xing: # alandoe
+  github: # jekyll
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
   bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  twitter( X ): '@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,14 +37,14 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
-      level: Native
+    - idiom: Castellano
+      level: Nativo
 
-    - idiom: French
-      level: Professional
+    - idiom: Inglés
+      level: Básico
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Guaraní
+      level: Básico
 
   interests:
     title: Interests
@@ -71,11 +71,11 @@ career-profile:
     Donec quam felis, ultricies nec, pellentesque eu.
     Second paragraph if required.
 education:
-  title: Education
+  title: Educación
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Pregrado en Derecho
+    university: Universidad de Aquino bolivia
+    time: 2023 - Actualidad
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,9 +84,20 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Licenciatura en Ciancia Política y Políticas Públicas
+    university: Universidad Autónoma Gabriel "René Moreno"
+    time: 2003 - 2008
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+   - degree: Técnico medio en electrónica digital y Reparación de computadoras
+    university: Instituto Técnico Profesional "Edison"
+    time: 2000 - 2002
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -283,5 +294,5 @@ skills:
     level: 60%
 
 footer: >
-  Joseraw &copy;2025 
+  Joseraw &copy; 2025 
 # <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
