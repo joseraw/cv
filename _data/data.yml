@@ -74,7 +74,7 @@ education:
   title: Educación
   info:
   - degree: Pregrado en Derecho
-    university: Universidad de Aquino Bolivia
+    university: Universidad de Aquino Bolivia - UDABOL
     time: 2023 - Actualidad
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -85,7 +85,7 @@ education:
         - Bullet point
         - Bullet point
   - degree: Diplomado en Pensamiento Feminista
-    university: Universidad Mayor de San Simón <br/> Centro de Estudios Superiores Universitarios (CESU)
+    university: Universidad Mayor de San Simón - UMSS <br/> Centro de Estudios Superiores Universitarios - CESU
     time: 2020 - 2021
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -96,7 +96,7 @@ education:
         - Bullet point
         - Bullet point
   - degree: Licenciatura en Ciencia Política y Políticas Públicas
-    university: Universidad Autónoma Gabriel René Moreno
+    university: Universidad Autónoma Gabriel René Moreno - UAGRM
     time: 2003 - 2008
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
