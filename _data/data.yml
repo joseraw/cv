@@ -105,7 +105,7 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: Experiencia laboral
   info:
   - role: Lead Developer
     time: 2015 - Present
@@ -146,7 +146,7 @@ experiences:
         - Bullet point
 
 certifications:
-  title: Certifications
+  title: Certificados y Cursos
   list:
   - name: CV Builder
     start: 2020
@@ -187,7 +187,7 @@ certifications:
       Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-  title: Projects
+  title: Capacidades
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
@@ -212,7 +212,7 @@ projects:
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-  title: OSS Contributions
+  title: Contribuciones
   intro: >
     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
@@ -229,7 +229,7 @@ oss:
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Publications
+  title: Publicaciones
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -251,7 +251,7 @@ publications:
     conference: "Comm. ACM 4 (1961), 51–55"
 
 recommendations:
-  title: Recommendations
+  title: Recommendaciones
   list:
   - person: Yareli Perez
     email: perezyareli@example.com
@@ -269,26 +269,32 @@ recommendations:
       He is a great employee!
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Habilidades Ofimáticas &amp; técnicas
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: Microsoft Office
+    level: 70%
 
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
+  - name: Ensambleje de Hardware
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: Google Workspace
+    level: 90%
+
+  - name: Soldadura con estaño de elementos
+    level: 95%
+
+  - name: Implementación de TICs en la comunicación interna  
+    level: 85%
+
+  - name: Análisis y desarrollo de discurso político
+    level: 95%
+
+  - name: Capture One
+    level: 90%
+
+  - name: Wondershare Filmora 14
+    level: 85%
 
 footer: >
   Joseraw &copy; 2025 
