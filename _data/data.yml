@@ -43,21 +43,18 @@ sidebar:
     - idiom: Inglés
       level: Básico
 
-    - idiom: Guaraní
-      level: Básico
-
   interests:
-    title: Interests
+    title: Actividades extracurriculares
     info:
-    - item: Climbing
+    - item: Fotografía
       link:
 
 
-    - item: Snowboarding
+    - item: Lectura
       link:
 
 
-    - item: Cooking
+    - item: Implementación de TICs
       link:
 
 
