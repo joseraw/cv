@@ -123,5 +123,41 @@
     </li>
     {% endif %}
 
+    {% if personal_information.birth_date %}
+<li class="birth-date">
+    <i class="fas fa-calendar-alt"></i> {{ personal_information.birth_date }}
+</li>
+{% endif %}
+
+{% if personal_information.nationality %}
+<li class="nationality">
+    <i class="fas fa-globe"></i> Nacionalidad: {{ personal_information.nationality }}
+</li>
+{% endif %}
+
+{% if personal_information.city_of_residence %}
+<li class="city-of-residence">
+    <i class="fas fa-map-marker-alt"></i> Ciudad de residencia: {{ personal_information.city_of_residence }}
+</li>
+{% endif %}
+
+{% if personal_information.identity_card_number %}
+<li class="identity-card">
+    <i class="fas fa-id-card"></i> Carnet de identidad: {{ personal_information.identity_card_number }}
+</li>
+{% endif %}
+
+{% if personal_information.military_service_number %}
+<li class="military-service">
+    <i class="fas fa-shield-alt"></i> Libreta de servicio militar: {{ personal_information.military_service_number }}
+</li>
+{% endif %}
+
+{% if personal_information.tax_identification_number %}
+<li class="tax-identification">
+    <i class="fas fa-file-invoice"></i> NIT: {{ personal_information.tax_identification_number }}
+</li>
+{% endif %}
+
   </ul>
 </div><!--//contact-container-->
