@@ -15,14 +15,7 @@ sidebar:
   # Sidebar links
   email: joseluis@joseraw.profesional.bo
   phone: 591 67701294
-  personal_information:  # Nuevo bloque para información personal
-  birth_date: 23-08-1983  # Formato de fecha ISO 8601 (YYYY-MM-DD)
-  identity_card: 3856380
-  country: Bolivia
-  nationality: Boliviano
-  military_booklet: LMR 83-3856380-15
-  tax_identification_number: 3856380011
-  driver_license_category: Categoría A
+
   citizenship:
   website: https://www.joseraw.profesional.bo/ # Include the full website URL, including "http://" or "https://"#
   personal_information:
