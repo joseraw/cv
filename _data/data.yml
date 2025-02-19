@@ -11,11 +11,9 @@ sidebar:
   name: JOSE LUIS GUTIERREZ POSTIGO
   tagline: Politólogo - Fotógrafo <br/><br/> joseraw
   avatar: fotoretrato.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
   # Sidebar links
   email: joseluis@joseraw.profesional.bo
   phone: 591 67701294
-
   citizenship:
   website: https://www.joseraw.profesional.bo/ # Include the full website URL, including "http://" or "https://"#
   personal_information:
@@ -26,7 +24,6 @@ sidebar:
   military_service_number: "ABC123"
   tax_identification_number: "9876543"
 
-  
   languages:
     title: Idiomas
     info:
