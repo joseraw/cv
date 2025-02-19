@@ -25,9 +25,14 @@ sidebar:
   driver_license_category: Categoría A
   citizenship:
   website: https://www.joseraw.profesional.bo/ # Include the full website URL, including "http://" or "https://"#
-  
+  personal_information:
+  birth_date: "15-03-1985"
+  nationality: "Boliviana"
+  city_of_residence: "La Paz"
+  identity_card_number: "1234567"
+  military_service_number: "ABC123"
+  tax_identification_number: "9876543"
 
-  
   
   languages:
     title: Idiomas
