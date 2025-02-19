@@ -20,30 +20,11 @@ sidebar:
   website: https://www.joseraw.profesional.bo/ # Include the full website URL, including "http://" or "https://".
   country: Bolivia
   nationality: Boliviano
-  
- # linkedin: # alandoe
- # xing: # alandoe
- # github: # jekyll
- # telegram: # add your nickname without '@' sign
- # gitlab:
- # bitbucket:
- # bluesky: # '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  instagram: #'lentemorado_sc'
-  vero: #'@joseraw'
-  blogspot: #'jlguti.blogspot.com'
-  twitter: #'@joseluisiulesoj'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   personal_information:  # Nuevo bloque para información personal
-  birth_date: "23-08-1983"  # Formato de fecha ISO 8601 (YYYY-MM-DD)
-  identity_card: "3856380"
-  military_booklet: "LMR 83-3856380-15"
+  birth_date: 23-08-1983  # Formato de fecha ISO 8601 (YYYY-MM-DD)
+  identity_card: 3856380
+  military_booklet: LMR 83-3856380-15
   tax_identification_number: "3856380011"
   driver_license_category: "Categoría A"
   
